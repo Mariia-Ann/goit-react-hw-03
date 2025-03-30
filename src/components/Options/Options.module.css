@@ -1,0 +1,12 @@
+.blockBtn {
+    font-size: 18px;
+    margin-bottom: 25px;
+    display: flex;
+    gap: 5px;
+}
+
+.btn {
+padding: 5px 10px;
+border-radius: 5px;
+border: 2px solid rgb(158, 157, 157);
+}
