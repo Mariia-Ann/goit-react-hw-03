@@ -1,6 +1,8 @@
 body {
   font-family: sans-serif;
   line-height: 1.5;
+  background-color: #F7F3F9;
+  color: #3B2D4D;
 }
 
 h1,
@@ -17,6 +19,7 @@ ul,
 ol {
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 img {
